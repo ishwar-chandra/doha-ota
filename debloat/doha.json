@@ -2,10 +2,10 @@
   "response": [
     {
       "filename": "crDroidAndroid-17.0-20261120-amogus_doha-v13.1-debloat.zip",
-      "download": "https://github.com/ishwar-chandra/amogus_doha_custom_rom/releases/download/crdroid-20261120-2/crDroidAndroid-17.0-20261120-amogus_doha-v13.1-debloat.zip",
-      "timestamp": 1795135461,
-      "sha256": "2cd8778dde323b786a61bcee05a2285dc3a3b18f4eff5c20f25423b5c1950f85",
-      "size": 1164650947,
+      "download": "https://github.com/ishwar-chandra/amogus_doha_custom_rom/releases/download/crdroid-20261120-3/crDroidAndroid-17.0-20261120-amogus_doha-v13.1-debloat.zip",
+      "timestamp": 1795140821,
+      "sha256": "c8eae2170c08d25d3e215d1688e92b6ea7a1f57d5b72c08b14dbcb4e62514b86",
+      "size": 1164651183,
       "version": "13.1",
       "buildtype": "user",
       "os_patch_level": "2026-11-01",
